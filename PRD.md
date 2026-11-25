@@ -161,8 +161,3 @@ We will measure the success of the system by looking at:
 The Campus Pre-Order and Food Queue System is intended to make buying food on campus easier and faster. It will help students avoid unnecessary waiting and allow food vendors to organize their orders better.
 
 The project will be developed as a web application using JavaScript and the other technologies listed above.
-
-13. References
-
-1. Kambli, A., Sinha, A. A., & Srinivas, S. (2020). Improving campus dining operations using capacity and queue management: A simulation-based case study. Journal of Hospitality and Tourism Management, 43, 62–70.
-2. Lee, W., & Lambert, C. U. (2000). Impact of waiting time on evaluation of service quality and customer satisfaction in foodservice operations. Foodservice Research International, 12(4), 241–254.
