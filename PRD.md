@@ -41,34 +41,6 @@ The system is expected to:
 
 We gathered information from students and food vendors through interviews to understand the problems they experienced when buying and selling food on campus.
 
-5.1 Students Interviewed
-
-The following students were identified for the research:
-
-1. Ibidoja Omotayo – Student, Babcock University.
-2. Ibeh Victor – Student, Babcock University.
-3. Ibukuonola Olalemi – Student, Babcock University.
-4. Ndidi Marvis – Student, Babcock University.
-
-5.2 Student Interview Responses
-
-1. Ibidoja Omotayo
-
-He explained that long queues are frustrating, especially during lunch breaks. He mentioned that students sometimes spend a lot of time waiting for food when they could be using that time for other activities.
-
-2. Ibeh Victor
-
-He explained that queues become more difficult when many students want to buy food at the same time. He suggested that an online ordering system could help students place their orders before getting to the shops.
-
-3. Ibukuonola Olalemi
-
-He pointed out that waiting for food can affect students’ schedules, especially when they have lectures or other activities to attend. He felt that being able to preorder would make the process easier.
-
-4. Ndidi Marvis
-
-She expressed interest in a system that allows students to view available food, place orders and receive notifications when their food is ready. She believed this could reduce unnecessary waiting.
-
-
 5.3 Research Questions
 
 The group will also investigate:
